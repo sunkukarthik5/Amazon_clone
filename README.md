@@ -1,5 +1,3 @@
-# Amazon_clone
-HTML,CSS
 # 🛒 Amazon Clone
 
 A simple **Amazon Clone** built using **HTML and CSS**, replicating the look and feel of the original Amazon website.  
