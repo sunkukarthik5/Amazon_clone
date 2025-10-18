@@ -22,3 +22,11 @@ This project focuses on frontend design — layout, styling, and responsiveness.
 - **Font Awesome (for icons)**
 
 ---
+
+## 🌐 Live Demo
+
+Click below to view the live project:  
+
+[![Live Demo](https://sunkukarthik5.github.io/Amazon_clone/)
+
+---
