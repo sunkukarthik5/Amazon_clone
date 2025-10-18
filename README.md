@@ -23,10 +23,11 @@ This project focuses on frontend design — layout, styling, and responsiveness.
 
 ---
 
+
 ## 🌐 Live Demo
 
 Click below to view the live project:  
 
-[![Live Demo](https://sunkukarthik5.github.io/Amazon_clone/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=github)](https://sunkukarthik5.github.io/Amazon_clone/)
 
 ---
